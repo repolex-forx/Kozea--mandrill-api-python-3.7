@@ -1,0 +1,11 @@
+{
+  "org": "Kozea",
+  "repo": "mandrill-api-python-3.7",
+  "versions": [
+    {
+      "commit": "0ab4d9a992a782d1ddcfe2addee7e604be3236df",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:20:10.231633+00:00"
+    }
+  ]
+}
