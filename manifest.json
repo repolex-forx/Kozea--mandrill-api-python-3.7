@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kozea",
+  "repo": "mandrill-api-python-3.7",
+  "versions": [
+    {
+      "commit": "0ab4d9a992a782d1ddcfe2addee7e604be3236df",
+      "parsed_at": "2026-10-28T17:18:00.166817+00:00",
+      "filetree": "filetree/0ab4d9a992a782d1ddcfe2addee7e604be3236df.nq.gz",
+      "blobs": [
+        "blob/73effa45c8a82d87a4c691f29e1065e655b7f126.nq.gz",
+        "blob/a9103adfe035ac88a696ed22b03a797329137943.nq.gz",
+        "blob/4dda7128e1e117ed4865adc29fc6984a609ec824.nq.gz",
+        "blob/fb922889739d28b2c3e40cbf010921c33735c577.nq.gz",
+        "blob/f4fbf578ddaf7e1620d85418e8031965a19d826c.nq.gz",
+        "blob/dfd048a002d2393dd1b92a978dba4faf00875448.nq.gz",
+        "blob/79a373a2a73ec247d696344f5a9bfbfec4c4c781.nq.gz",
+        "blob/fa3bbc96f45ee2a9cd7fb28ad127955d85718735.nq.gz",
+        "blob/48387441f0a42271e0498c19d1f74c1991eb528f.nq.gz",
+        "blob/1e0b5f8cfb715c17da9a0d57e66fd9014545dfe5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

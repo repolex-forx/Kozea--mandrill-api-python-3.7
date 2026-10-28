@@ -1,0 +1,44 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/Kozea/mandrill-api-python-3.7/commit/0ab4d9a992a782d1ddcfe2addee7e604be3236df",
+  "@type": "git:Commit",
+  "git:hexsha": "0ab4d9a992a782d1ddcfe2addee7e604be3236df",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/Kozea/mandrill-api-python-3.7"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/0ab4d9a992a782d1ddcfe2addee7e604be3236df.nq.gz",
+      "repolex:graphFileSize": 1486
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 12334
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 411
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 2635
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 562
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-28T17:18:00.166817+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
