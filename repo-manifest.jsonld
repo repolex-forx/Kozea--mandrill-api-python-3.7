@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Kozea/mandrill-api-python-3.7/commit/0ab4d9a992a782d1ddcfe2addee7e604be3236df",
       "git:hexsha": "0ab4d9a992a782d1ddcfe2addee7e604be3236df",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Kozea/mandrill-api-python-3.7/commit/12c20380cebc80a773f6620ac0cc39d68ea881d3",
